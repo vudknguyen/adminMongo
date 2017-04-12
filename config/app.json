@@ -1,1 +1,10 @@
-{}
+{
+    "app": {
+        "host": "localhost",
+        "port": 8080,
+        "password": "abc@@123",
+        "locale": "en",
+        "context": "dbApp",
+        "monitoring": false
+    }
+}
